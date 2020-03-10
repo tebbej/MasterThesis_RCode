@@ -1,4 +1,4 @@
-## .RData Objects ##
+## .RData Objects
 
 'seal_raw_dfs.RData'
 Contains a list with raw data frames of peak identification data for Antarctic fur seals sampled in 2016/2017 on Bird Island, South Georgia
@@ -21,7 +21,7 @@ Holds a data frame for bootstrapped data of Antarctic fur seal mother pup-pair s
 'R2_replication_season_btrap'
 Holds a data frame for bootstrapped data of Antarctic fur seal mother pup-pair scent data sampled in 2016/2017 in two breeding colonies
 
-## .R scripts ##
+## .R scripts
 'ReadFiles.R'
 Script to read in a directory that contains individual reports about peak integration in OpenChrom Style. Reads in text file and cuts off 
 everything except peak retention times
