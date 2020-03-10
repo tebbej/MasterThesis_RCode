@@ -1,0 +1,79 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ASCII Report
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Env1_johnson_19092018_11
+Data Name: 
+Operator: 
+Date: 2018/10/25
+Info: 
+Misc: 
+Misc (separated): 
+Details: 
+Scans: 14775
+Start RT (min): 5.75
+Stop RT (min): 54.99667
+Barcode: 
+------------------------------
+
+NAME: Env1_johnson_19092018_11
+TYPE: MSD
+------------------------------
+Integrated Chromatogram Area: 0.0
+Integrated Background Area: 0.0
+Integrated Peak Area: 15391348.4834
+
+
+PEAK LIST OVERVIEW
+------------------------------
+[#]	RT (Min)	RI	Start RT (Min)	Stop RT (Min)	Tailing	Width (at 50% peak height by inflection points)	Integrated Area	S/N	Leading	Tailing	Scan #	Purity	Integrator	Detector	Model	m/z ...
+[1]	9.82333	0.0	9.75667	9.98333	1.499	0.02305	10419527.97262	23.72657	0.66711	1.499	1223	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		59.05 100.1 101.1 55.05 129.1 ...
+[2]	10.7	0.0	10.64333	10.75	1.05487	0.02152	2640232.79879	7.37341	0.94799	1.05487	1486	1.0	Integrator Trapezoid: TIC	Manual		84.0 55.1 56.1 69.1 70.15 ...
+[3]	11.47667	0.0	11.40667	11.53667	1.17244	0.02438	2331587.71199	6.15236	0.85292	1.17244	1719	1.0	Integrator Trapezoid: TIC	Manual		83.95 59.05 55.1 114.05 111.1 ...
+
+
+PEAK INTEGRATION RESULTS
+------------------------------
+[#]	m/z (0 = TIC or SUM XIC))	Integrated Area
+[1]	TIC	10419527.97262
+[2]	TIC	2640232.79879
+[3]	TIC	2331587.71199
+
+
+SCAN IDENTIFICATION RESULTS
+------------------------------
+Scan identification results are not available.
+
+
+PEAK IDENTIFICATION RESULTS
+------------------------------
+[#]	Name	CAS	MatchFactor	ReverseMatchFactor	Formula	Mol Weight	Probability	Advise	Identifier	Miscellaneous	Comments
+
+
+BACKGROUND INTEGRATION RESULTS
+------------------------------
+Background integration results are not available.
+
+
+CHROMATOGRAM INTEGRATION RESULTS
+------------------------------
+Chromatogram integration results are not available.
+
+
+CHROMATOGRAM IDENTIFICATION RESULTS
+------------------------------
+Chromatogram identification results are not available.
+
+
+PEAK QUANTITATION RESULTS
+------------------------------
+[#]	Name	ChemicalClass	Concentration	ConcentrationUnit	Area	Description	Ion
+
+
+PEAK QUANTITATION SUMMARY
+------------------------------
+RT (Minutes)	Area
+9.82333	10419527.97262
+10.7	2640232.79879
+11.47667	2331587.71199
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

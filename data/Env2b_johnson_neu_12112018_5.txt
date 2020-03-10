@@ -1,0 +1,124 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ASCII Report
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Name: Env1_johnson_neu_12112018_5
+Data Name: 
+Operator: 
+Date: 2018/11/28
+Info: 
+Misc: 
+Misc (separated): 
+Details: 
+Scans: 14775
+Start RT (min): 5.75
+Stop RT (min): 54.99667
+Barcode: 
+------------------------------
+
+NAME: Env1_johnson_neu_12112018_5
+TYPE: MSD
+------------------------------
+Integrated Chromatogram Area: 0.0
+Integrated Background Area: 0.0
+Integrated Peak Area: 130443859.7243
+
+
+PEAK LIST OVERVIEW
+------------------------------
+[#]	RT (Min)	RI	Start RT (Min)	Stop RT (Min)	Tailing	Width (at 50% peak height by inflection points)	Integrated Area	S/N	Leading	Tailing	Scan #	Purity	Integrator	Detector	Model	m/z ...
+[1]	8.09333	0.0	8.03667	8.16	1.3435	0.02135	7063546.31582	20.93093	0.74433	1.3435	704	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		115.1 55.0 59.05 114.1 87.05 ...
+[2]	9.35667	0.0	9.3	9.41333	1.10688	0.02155	4311571.97664	11.80267	0.90344	1.10688	1083	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		57.05 56.05 55.05 70.1 82.1 ...
+[3]	9.82333	0.0	9.74	9.97	1.00756	0.02213	29797904.48815	88.02851	0.99249	1.00756	1223	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		59.0 100.1 101.1 129.1 55.0 ...
+[4]	10.69667	0.0	10.61667	10.77	0.96384	0.01912	6198592.82019	21.57107	1.03751	0.96384	1485	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		55.05 56.05 69.1 70.05 83.1 ...
+[5]	11.47667	0.0	11.41333	11.57333	1.14933	0.0224	7273797.88368	20.09966	0.87007	1.14933	1719	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		59.05 55.05 114.15 111.1 101.1 ...
+[6]	13.59333	0.0	13.55667	13.63333	1.15051	0.01747	1747886.50813	6.64261	0.86918	1.15051	2354	1.0	Integrator Trapezoid: TIC	Manual		84.0 69.1 57.1 55.05 56.05 ...
+[7]	14.65667	0.0	14.63333	14.68333	1.04251	0.0187	1259331.05092	4.64824	0.95922	1.04251	2673	1.0	Integrator Trapezoid: TIC	Manual		177.15 83.85 207.0 51.0 91.2 ...
+[8]	15.44333	0.0	15.41667	15.47	1.04919	0.02353	1915045.73273	6.07579	0.95311	1.04919	2909	1.0	Integrator Trapezoid: TIC	Manual		121.05 149.1 58.05 194.1 138.1 ...
+[9]	16.82333	0.0	16.79333	16.85	0.9326	0.0178	1331832.79282	5.03426	1.07228	0.9326	3323	1.0	Integrator Trapezoid: TIC	Manual		73.05 117.1 74.95 257.2 84.0 ...
+[10]	18.76667	0.0	18.70667	18.81667	1.11404	0.02232	3099160.90608	9.63852	0.89764	1.11404	3906	1.0	Integrator Trapezoid: TIC	Manual		57.05 82.1 55.05 67.95 207.0 ...
+[11]	19.78667	0.0	19.71667	19.90333	1.21008	0.02193	6327369.62197	12.56777	0.82639	1.21008	4212	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		57.1 205.1 207.05 175.1 55.0 ...
+[12]	20.53667	0.0	20.47	20.61	1.18939	0.01948	3838127.56451	13.56342	0.84077	1.18939	4437	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		88.1 101.1 207.05 57.05 69.05 ...
+[13]	20.86333	0.0	20.8	20.94333	1.22022	0.024	5675778.77243	16.07359	0.81952	1.22022	4535	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		134.05 91.1 207.0 106.1 79.0 ...
+[14]	24.16333	0.0	24.1	24.29	1.30753	0.01988	6152455.33871	11.79144	0.7648	1.30753	5525	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		207.05 129.1 57.1 70.1 55.05 ...
+[15]	25.40667	0.0	25.37	25.44	1.29073	0.02175	2980726.3035	9.22039	0.77475	1.29073	5898	1.0	Integrator Trapezoid: TIC	Manual		207.0 149.05 208.0 73.05 71.1 ...
+[16]	27.97333	0.0	27.90333	28.02667	1.45035	0.02262	4453470.4908	10.14899	0.68949	1.45035	6668	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		207.0 208.0 59.0 73.05 72.05 ...
+[17]	51.99333	0.0	51.81	51.99667	1.96067	0.04393	7470165.87353	11.51104	0.51003	1.96067	13874	1.0	Integrator Trapezoid: TIC	Peak Detector First Derivative		207.0 57.05 316.25 208.0 191.1 ...
+[18]	53.86	0.0	53.55	54.24333	-1.0627	0.06347	29547095.28367	11.25618	-0.941	-1.0627	14434	1.0	Integrator Trapezoid: TIC	Manual		207.0 57.05 208.05 73.05 530.45 ...
+
+
+PEAK INTEGRATION RESULTS
+------------------------------
+[#]	m/z (0 = TIC or SUM XIC))	Integrated Area
+[1]	TIC	7063546.31582
+[2]	TIC	4311571.97664
+[3]	TIC	29797904.48815
+[4]	TIC	6198592.82019
+[5]	TIC	7273797.88368
+[6]	TIC	1747886.50813
+[7]	TIC	1259331.05092
+[8]	TIC	1915045.73273
+[9]	TIC	1331832.79282
+[10]	TIC	3099160.90608
+[11]	TIC	6327369.62197
+[12]	TIC	3838127.56451
+[13]	TIC	5675778.77243
+[14]	TIC	6152455.33871
+[15]	TIC	2980726.3035
+[16]	TIC	4453470.4908
+[17]	TIC	7470165.87353
+[18]	TIC	29547095.28367
+
+
+SCAN IDENTIFICATION RESULTS
+------------------------------
+Scan identification results are not available.
+
+
+PEAK IDENTIFICATION RESULTS
+------------------------------
+[#]	Name	CAS	MatchFactor	ReverseMatchFactor	Formula	Mol Weight	Probability	Advise	Identifier	Miscellaneous	Comments
+
+
+BACKGROUND INTEGRATION RESULTS
+------------------------------
+Background integration results are not available.
+
+
+CHROMATOGRAM INTEGRATION RESULTS
+------------------------------
+Chromatogram integration results are not available.
+
+
+CHROMATOGRAM IDENTIFICATION RESULTS
+------------------------------
+Chromatogram identification results are not available.
+
+
+PEAK QUANTITATION RESULTS
+------------------------------
+[#]	Name	ChemicalClass	Concentration	ConcentrationUnit	Area	Description	Ion
+
+
+PEAK QUANTITATION SUMMARY
+------------------------------
+RT (Minutes)	Area
+8.09333	7063546.31582
+9.35667	4311571.97664
+9.82333	29797904.48815
+10.69667	6198592.82019
+11.47667	7273797.88368
+13.59333	1747886.50813
+14.65667	1259331.05092
+15.44333	1915045.73273
+16.82333	1331832.79282
+18.76667	3099160.90608
+19.78667	6327369.62197
+20.53667	3838127.56451
+20.86333	5675778.77243
+24.16333	6152455.33871
+25.40667	2980726.3035
+27.97333	4453470.4908
+51.99333	7470165.87353
+53.86	29547095.28367
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
